@@ -12,7 +12,7 @@
            fetch="git://github.com/CyanogenMod"
            revision="cm-10.2" />
 
-  <default revision="jb-4.3"
+  <default branch="jb-4.3"
            remote="to"
            sync-j="4" />
 
