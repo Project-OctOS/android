@@ -3,9 +3,6 @@
 
   <remote name="aosp"
            fetch="https://android.googlesource.com/" />
-           
-  <remote name="github"
-           fetch="git://github.com" />
 
   <remote name="to"
            fetch="git://github.com/Team-OctOS"
