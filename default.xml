@@ -7,10 +7,6 @@
   <remote name="oct"
            fetch="git://github.com/Team-OctOS"
            revision="jb-4.3" />
-		   
-  <remote name="cm"
-           fetch="git://github.com/CyanogenMod"
-           revision="cm-10.2" />
            
    <remote name="github"
             fetch="git://github.com" />
