@@ -6,7 +6,7 @@
 
   <remote name="to"
            fetch="git://github.com/Team-OctOS"
-           branch="jb-4.3" />
+           revision="jb-4.3" />
 		   
   <remote name="cm"
            fetch="git://github.com/CyanogenMod"
