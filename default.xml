@@ -308,7 +308,7 @@
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" remote="aosp" revision="refs/tags/android-4.3_r2.2" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" remote="aosp" revision="refs/tags/android-4.3_r2.2" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.3_r2.2" />
-  <project path="packages/apps/Launcher2" name="packages_apps_launcher" remote="oct" />
+  <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" remote="aosp" revision="refs/tags/android-4.3_r2.2" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" remote="aosp" revision="refs/tags/android-4.3_r2.2" />
   <project path="packages/apps/Mms" name="platform/packages/apps/Mms" remote="aosp" revision="refs/tags/android-4.3_r2.2" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" remote="aosp" revision="refs/tags/android-4.3_r2.2" />
