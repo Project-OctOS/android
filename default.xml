@@ -252,7 +252,7 @@
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" remote="aosp" revision="refs/tags/android-4.3_r2.2" />
   
   <!-- Kernel -->
-  <project path="kernel/samsung/jf" name="android_kernel_samsung_jf" remote="oct"  />
+  <project path="kernel/samsung/jf" name="kernel_samsung_jf-GE" remote="oct"  />
   
   <!-- Hardware -->
   <project path="hardware/akm" name="platform/hardware/akm" remote="aosp" revision="refs/tags/android-4.3_r2.2" />
@@ -270,7 +270,7 @@
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" groups="qcom" remote="oct"  />
   <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" groups="qcom" remote="oct"  />
   <project path="hardware/qcom/media" name="hardware_qcom_media" groups="qcom" remote="oct" revision="jb4.3" />
-  <project path="hardware/qcom/media-caf" name="hardware_qcom_media-caf" groups="caf" remote="oct" revision="jb4.3" />
+  <project path="hardware/qcom/media-caf" name="android_hardware_qcom_media-caf" groups="caf" remote="oct" revision="jb4.3" />
   <project path="hardware/qcom/msm8960" name="android_hardware_qcom_msm8960" groups="qcom_msm8960" remote="oct"  />
   <project path="hardware/qcom/power" name="android_hardware_qcom_power" remote="oct"  />
   <project path="hardware/qcom/sensors" name="android_hardware_qcom_sensors" remote="oct"  />
