@@ -424,5 +424,5 @@
   <!-- Vendor -->
   <project path="vendor/oct" name="vendor_oct" remote="oct" />
   <project path="vendor/qcom/opensource/v8" name="android_vendor_qcom_opensource_v8" remote="oct"  />
-  <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="oct" revision="jb4.3" />
+  <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="oct" revision="jb-4.3" />
 </manifest>
