@@ -77,7 +77,7 @@
   <project path="external/dnsmasq" name="platform/external/dnsmasq" remote="aosp" revision="refs/tags/android-4.3_r2.2" />
   <project path="external/doclava" name="platform/external/doclava" remote="aosp" revision="refs/tags/android-4.3_r2.2" />
   <project path="external/dropbear" name="platform/external/dropbear" remote="aosp" revision="refs/tags/android-4.3_r2.2" />
-  <project path="external/e2fsprogs" name="platform/external/e2fsprogs" remote="aosp" remote="aosp" revision="refs/tags/android-4.3_r2.2"  />
+  <project path="external/e2fsprogs" name="platform/external/e2fsprogs" remote="aosp" revision="refs/tags/android-4.3_r2.2"  />
   <project path="external/easymock" name="platform/external/easymock" remote="aosp" revision="refs/tags/android-4.3_r2.2" />
   <project path="external/eclipse-basebuilder" name="platform/external/eclipse-basebuilder" remote="aosp" revision="refs/tags/android-4.3_r2.2" />
   <project path="external/eclipse-windowbuilder" name="platform/external/eclipse-windowbuilder" remote="aosp" revision="refs/tags/android-4.3_r2.2" />
