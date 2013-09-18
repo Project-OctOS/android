@@ -124,8 +124,8 @@
   <project path="external/kernel-headers" name="platform/external/kernel-headers" remote="aosp" revision="refs/tags/android-4.3_r3" />
   <project path="external/kissfft" name="android_external_kissfft" remote="oct"  />
   <!-- Koush -->
-  <project path="external/koush/Superuser" name="external_koush_Superuser" remote="oct" />
-  <project path="external/koush/Widgets" name="Widgets" remote="oct"  />
+  <project path="external/koush/Superuser" name="Superuser" remote="oct" />
+  <!-- project path="external/koush/Widgets" name="Widgets" remote="oct"  / we won't use this atm -->
   <project path="external/libcap-ng" name="platform/external/libcap-ng" remote="aosp" revision="refs/tags/android-4.3_r3" />
   <project path="external/libffi" name="platform/external/libffi" remote="aosp" revision="refs/tags/android-4.3_r3" />
   <project path="external/libgsm" name="platform/external/libgsm" remote="aosp" revision="refs/tags/android-4.3_r3" />
@@ -353,6 +353,8 @@
   <project path="packages/wallpapers/MagicSmoke" name="platform/packages/wallpapers/MagicSmoke" remote="aosp" revision="refs/tags/android-4.3_r3" />
   <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" remote="aosp" revision="refs/tags/android-4.3_r3" />
   <project path="packages/wallpapers/NoiseField" name="platform/packages/wallpapers/NoiseField" remote="aosp" revision="refs/tags/android-4.3_r3" />
+  <project path="packages/wallpapers/OctSun" name="packages_wallpapers_OctSun" remote="oct" />
+  <project path="packages/wallpapers/OctPhase" name="packages_wallpapers_OctPhase" remote="oct" />
   
   <!-- PDK package -->
   <project path="pdk" name="platform/pdk" remote="aosp" revision="refs/tags/android-4.3_r3" />
