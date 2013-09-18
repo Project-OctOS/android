@@ -124,7 +124,7 @@
   <project path="external/kernel-headers" name="platform/external/kernel-headers" remote="aosp" revision="refs/tags/android-4.3_r3" />
   <project path="external/kissfft" name="android_external_kissfft" remote="oct"  />
   <!-- Koush -->
-  <project path="external/koush/Superuser" name="Superuser" remote="oct" />
+  <!-- project path="external/koush/Superuser" name="Superuser" remote="oct" / -->
   <!-- project path="external/koush/Widgets" name="Widgets" remote="oct"  / we won't use this atm -->
   <project path="external/libcap-ng" name="platform/external/libcap-ng" remote="aosp" revision="refs/tags/android-4.3_r3" />
   <project path="external/libffi" name="platform/external/libffi" remote="aosp" revision="refs/tags/android-4.3_r3" />
