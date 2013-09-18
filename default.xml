@@ -353,8 +353,8 @@
   <project path="packages/wallpapers/MagicSmoke" name="platform/packages/wallpapers/MagicSmoke" remote="aosp" revision="refs/tags/android-4.3_r3" />
   <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" remote="aosp" revision="refs/tags/android-4.3_r3" />
   <project path="packages/wallpapers/NoiseField" name="platform/packages/wallpapers/NoiseField" remote="aosp" revision="refs/tags/android-4.3_r3" />
-  <project path="packages/wallpapers/OctSun" name="packages_wallpapers_OctSun" remote="oct" />
-  <project path="packages/wallpapers/OctPhase" name="packages_wallpapers_OctPhase" remote="oct" />
+#  <project path="packages/wallpapers/OctSun" name="packages_wallpapers_OctSun" remote="oct" />
+#  <project path="packages/wallpapers/OctPhase" name="packages_wallpapers_OctPhase" remote="oct" />
   
   <!-- PDK package -->
   <project path="pdk" name="platform/pdk" remote="aosp" revision="refs/tags/android-4.3_r3" />
