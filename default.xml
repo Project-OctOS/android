@@ -277,10 +277,10 @@
   <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="oct"  />
   <project path="hardware/ril" name="android_hardware_ril" remote="oct"  />
   <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
-  <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" remote="oct"  remote="aosp" revision="refs/tags/android-4.3_r3.1" />
-  <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="oct"  remote="aosp" revision="refs/tags/android-4.3_r3.1" />
-  <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" remote="oct"  remote="aosp" revision="refs/tags/android-4.3_r3.1" />
-  <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" remote="oct"  remote="aosp" revision="refs/tags/android-4.3_r3.1" />
+  <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3"  remote="aosp" revision="refs/tags/android-4.3_r3.1" />
+  <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx"  remote="aosp" revision="refs/tags/android-4.3_r3.1" />
+  <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
+  <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   
   <!-- Libs -->
   <project path="libcore" name="platform/libcore" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
