@@ -138,7 +138,7 @@
   <project path="external/libogg" name="platform/external/libogg" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/libpcap" name="platform/external/libpcap" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/libphonenumber" name="platform/external/libphonenumber" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
-  <project path="external/libpng" name="android_external_libpng" remote="aosp" revision="refs/tags/android-4.3_r3.1"  />
+  <project path="external/libpng" name="platform/external/libpng" remote="aosp" revision="refs/tags/android-4.3_r3.1"  />
   <project path="external/libppp" name="platform/external/libppp" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/libselinux" name="android_external_libselinux" remote="oct"  />
   <project path="external/libsepol" name="android_external_libsepol" remote="oct"  />
@@ -218,7 +218,7 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/yaffs2" name="android_external_yaffs2" remote="oct"  />
-  <project path="external/zlib" name="android/external/zlib" remote="aosp" revision="refs/tags/android-4.3_r3.1"  />
+  <project path="external/zlib" name="platform/external/zlib" remote="aosp" revision="refs/tags/android-4.3_r3.1"  />
   <project path="external/zxing" name="platform/external/zxing" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   
   <!-- Frameworks -->
@@ -244,7 +244,7 @@
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="oct"  />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
-  <project path="frameworks/rs" name="android/frameworks/rs" remote="aosp" revision="refs/tags/android-4.3_r3.1"  groups="pdk" />
+  <project path="frameworks/rs" name="platform/frameworks/rs" remote="aosp" revision="refs/tags/android-4.3_r3.1"  groups="pdk" />
   <project path="frameworks/support" name="platform/frameworks/support" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="frameworks/testing" name="platform/frameworks/testing" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="frameworks/volley" name="platform/frameworks/volley" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
@@ -405,8 +405,8 @@
   <project path="system/bluetooth" name="android_system_bluetooth" remote="oct"  />
   <project path="system/core" name="android_system_core" groups="pdk" remote="oct"  />
   <project path="system/extras" name="platform/system/extras" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
-  <project path="system/media" name="android/system/media" remote="aosp" revision="refs/tags/android-4.3_r3.1"  />
-  <project path="system/netd" name="android/system/netd" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
+  <project path="system/media" name="platform/system/media" remote="aosp" revision="refs/tags/android-4.3_r3.1"  />
+  <project path="system/netd" name="platform/system/netd" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="system/security" name="platform/system/security" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="system/vold" name="android_system_vold" remote="oct"  />
   
