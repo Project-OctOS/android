@@ -117,15 +117,12 @@
   <project path="external/jhead" name="platform/external/jhead" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/jmdns" name="platform/external/jmdns" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/jmonkeyengine" name="platform/external/jmonkeyengine" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
-  <project path="external/jpeg" name="android_external_jpeg" remote="aosp" revision="refs/tags/android-4.3_r3.1"  />
+  <project path="external/jpeg" name="platform/external/jpeg" remote="aosp" revision="refs/tags/android-4.3_r3.1"  />
   <project path="external/jsilver" name="platform/external/jsilver" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/jsr305" name="platform/external/jsr305" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/junit" name="platform/external/junit" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/kissfft" name="android_external_kissfft" remote="oct"  />
-  <!-- Koush -->
-  <!-- project path="external/koush/Superuser" name="Superuser" remote="oct" / -->
-  <!-- project path="external/koush/Widgets" name="Widgets" remote="oct"  / we won't use this atm -->
   <project path="external/libcap-ng" name="platform/external/libcap-ng" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/libffi" name="platform/external/libffi" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/libgsm" name="platform/external/libgsm" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
@@ -214,7 +211,7 @@
   <project path="external/webkit" name="platform/external/webkit"  remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/webp" name="platform/external/webp" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/webrtc" name="platform/external/webrtc" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
-  <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="aosp" revision="refs/tags/android-4.3_r3.1"  />
+  <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" remote="aosp" revision="refs/tags/android-4.3_r3.1"  />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/yaffs2" name="android_external_yaffs2" remote="oct"  />
