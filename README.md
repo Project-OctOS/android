@@ -15,4 +15,4 @@ Building(n=#cores-1):
 --------------------
 * build/envsetup.sh
 * lunch
-* make -j(n)
+* make otapackage -j(n)
