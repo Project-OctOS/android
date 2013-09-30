@@ -31,11 +31,14 @@
   <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   
   <!-- Devices for Samsung jf -->
-  <project path="device/samsung/jfltevzw" name="android_device_samsung_jfltevzw" groups="pdk" remote="oct"  />
+  <project path="device/samsung/jflteatt" name="android_device_samsung_jflteatt" groups="pdk" remote="oct"  />
+  <project path="device/samsung/jfltecan" name="android_device_samsung_jfltecan" groups="pdk" remote="oct"  />
+  <project path="device/samsung/jfltecri" name="android_device_samsung_jfltecri" groups="pdk" remote="oct"  />
+  <project path="device/samsung/jfltecsp" name="android_device_samsung_jfltecsp" groups="pdk" remote="oct"  />
   <project path="device/samsung/jfltespr" name="android_device_samsung_jfltespr" groups="pdk" remote="oct"  />
   <project path="device/samsung/jfltetmo" name="android_device_samsung_jfltetmo" groups="pdk" remote="oct"  />
   <project path="device/samsung/jflteusc" name="android_device_samsung_jflteusc" groups="pdk" remote="oct"  />
-  <project path="device/samsung/jfltecan" name="android_device_samsung_jfltecan" groups="pdk" remote="oct"  />
+  <project path="device/samsung/jfltevzw" name="android_device_samsung_jfltevzw" groups="pdk" remote="oct"  />
   <project path="device/samsung/jfltexx" name="android_device_samsung_jfltexx" groups="pdk" remote="oct"  />
   
   <!-- Devices for AOSP -->
