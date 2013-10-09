@@ -223,7 +223,7 @@
   <project path="external/zxing" name="platform/external/zxing" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   
   <!-- Frameworks -->
-  <project path="frameworks/av" name="platform/frameworks/av" remote="aosp" revision="refs/tags/android-4.3_r3.1"  />
+  <project path="frameworks/av" name="android_frameworks_av" remote="oct"  />
   <project path="frameworks/base" name="android_frameworks_base" remote="oct"  />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
@@ -245,7 +245,7 @@
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="oct"  />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
-  <project path="frameworks/rs" name="platform/frameworks/rs" remote="aosp" revision="refs/tags/android-4.3_r3.1"  groups="pdk" />
+  <project path="frameworks/rs" name="android_frameworks_rs" remote="oct" groups="pdk" />
   <project path="frameworks/support" name="platform/frameworks/support" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="frameworks/testing" name="platform/frameworks/testing" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="frameworks/volley" name="platform/frameworks/volley" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
