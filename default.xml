@@ -331,6 +331,7 @@
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
+  <project path="packages/apps/OctPapers" name="android_packages_apps_OctPapers" remote="oct" />
   <project path="packages/experimental" name="platform/packages/experimental" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
@@ -358,6 +359,7 @@
   <project path="packages/wallpapers/OctPhase" name="packages_wallpapers_OctPhase" remote="oct" />
   <project path="packages/wallpapers/PhaseBeam" name="packages_wallpapers_SunBeam" remote="oct" />
   <project path="packages/wallpapers/SunBeam" name="android_packages_wallpapers_PhaseBeam" remote="oct" />
+  <project path="packages/wallpapers/GummyBeam" name="packages_wallpapers_GummyBeam" remote="oct" />
   
   <!-- PDK package -->
   <project path="pdk" name="platform/pdk" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
