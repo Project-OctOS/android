@@ -224,7 +224,7 @@
   <project path="external/zxing" name="platform/external/zxing" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   
   <!-- Frameworks -->
-  <project path="frameworks/av" name="platform_frameworks_av" remote="oct"  />
+  <project path="frameworks/av" name="android_frameworks_av" remote="oct"  />
   <project path="frameworks/base" name="android_frameworks_base" remote="oct"  />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
