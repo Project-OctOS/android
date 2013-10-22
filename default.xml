@@ -8,6 +8,9 @@
   <remote name="oct"
             fetch="git://github.com/Team-OctOS"
             revision="jb-4.3" />
+			
+  <remote  name="pe"
+           fetch="git://github.com/Project-Elite/" />
            
   <remote name="github"
             fetch="git://github.com" />
@@ -254,7 +257,7 @@
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   
   <!-- Kernel -->
-  <project path="kernel/samsung/jf" name="android_kernel_samsung_jf" remote="oct"  />
+  <project path="kernel/samsung/jf" name="elite_kernel_jf" remote="pe" revision="jb43-OC" />
   
   <!-- Hardware -->
   <project path="hardware/akm" name="platform/hardware/akm" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
