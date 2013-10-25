@@ -41,6 +41,9 @@
   <project path="device/samsung/jflteusc" name="android_device_samsung_jflteusc" groups="pdk" remote="oct"  />
   <project path="device/samsung/jfltevzw" name="android_device_samsung_jfltevzw" groups="pdk" remote="oct"  />
   <project path="device/samsung/jfltexx" name="android_device_samsung_jfltexx" groups="pdk" remote="oct"  />
+  <project path="device/samsung/jf-common" name="android_device_samsung_jf-common" groups="pdk" remote="oct"  />
+  <project path="device/samsung/msm8960-common" name="android_device_samsung_msm8960-common" groups="pdk" remote="oct"  />
+  <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" groups="pdk" remote="oct"  />
   
   <!-- Devices for AOSP -->
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
