@@ -5,9 +5,9 @@ AOSP 4.3 FOR Galaxy S4
 
 Download:
 ------------------
-* mkdir ~/OctOS
-* cd ~/OctOS
-* repo init -u git://github.com/Team-OctOS/android -b jb-4.3
+* mkdir ~/oct
+* cd ~/oct
+* repo init -u git://github.com/Team-OctOS/manifest -b jb-4.3
 * repo sync
 
 
