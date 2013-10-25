@@ -6,7 +6,7 @@
             revision="refs/tags/android-4.3.1_r1" />
 
   <remote name="oct"
-            fetch="git://github.com/Team-OctOS"
+            fetch="git://github.com/Project-OctOS"
             revision="jb-4.3" />
            
   <remote name="github"
