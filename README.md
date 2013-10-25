@@ -7,7 +7,7 @@ Download:
 ------------------
 * mkdir ~/oct
 * cd ~/oct
-* repo init -u git://github.com/Team-OctOS/manifest -b jb-4.3
+* repo init -u git://github.com/Project-OctOS/manifest -b jb-4.3
 * repo sync
 
 
