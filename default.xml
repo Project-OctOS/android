@@ -31,7 +31,7 @@
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="bootable/recovery" name="platform/bootable/recovery" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
-  <project path="dalvik" name="android_dalvik" remote="oct" />
+  <project path="dalvik" name="android/dalvik" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="development" name="platform/development" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   
@@ -70,7 +70,6 @@
   <project path="external/apache-qp" name="platform/external/apache-qp" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="external/apache-xml" name="platform/external/apache-xml" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="external/arduino" name="platform/external/arduino" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
-  <project path="external/bash" name="android_external_bash" remote="oct"  />
   <project path="external/bison" name="platform/external/bison" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="external/blktrace" name="platform/external/blktrace" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="oct"  />
