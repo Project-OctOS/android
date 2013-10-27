@@ -12,9 +12,6 @@
   <remote name="cm"
             fetch="git://github.com/CyanogenMod"
             revision="cm-10.2" />
-           
-  <remote name="github"
-            fetch="git://github.com" />
 
   <default revision="jb-4.3"
             remote="oct"
@@ -271,20 +268,20 @@
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="oct"  />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="oct"  />
   <project path="hardware/msm7k" name="android_hardware_msm7k" remote="oct"  />
-  <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" groups="qcom" remote="oct"  />
-  <project path="hardware/qcom/audio-caf" name="android_hardware_qcom_audio-caf" groups="caf" remote="oct" />
-  <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" groups="qcom" remote="oct"  />
+  <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" groups="qcom" remote="cm"  />
+  <project path="hardware/qcom/audio-caf" name="android_hardware_qcom_audio-caf" groups="caf" remote="cm" />
+  <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" groups="qcom" remote="cm"  />
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" groups="qcom" remote="oct"  />
   <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" groups="caf" remote="cm"  />
-  <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" groups="qcom" remote="oct"  />
-  <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" groups="qcom" remote="oct"  />
-  <project path="hardware/qcom/media" name="hardware_qcom_media" groups="qcom" remote="oct"  />
-  <project path="hardware/qcom/media-caf" name="android_hardware_qcom_media-caf" groups="caf" remote="oct" />
-  <project path="hardware/qcom/msm8960" name="android_hardware_qcom_msm8960" groups="qcom_msm8960" remote="oct"  />
-  <project path="hardware/qcom/power" name="android_hardware_qcom_power" remote="oct"  />
-  <project path="hardware/qcom/sensors" name="android_hardware_qcom_sensors" remote="oct"  />
-  <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="oct"  />
-  <project path="hardware/ril" name="android_hardware_ril" remote="oct"  />
+  <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" groups="qcom" remote="cm"  />
+  <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" groups="qcom" remote="cm"  />
+  <project path="hardware/qcom/media" name="hardware_qcom_media" groups="qcom" remote="cm"  />
+  <project path="hardware/qcom/media-caf" name="android_hardware_qcom_media-caf" groups="caf" remote="cm" />
+  <project path="hardware/qcom/msm8960" name="android_hardware_qcom_msm8960" groups="qcom_msm8960" remote="cm"  />
+  <project path="hardware/qcom/power" name="android_hardware_qcom_power" remote="cm"  />
+  <project path="hardware/qcom/sensors" name="android_hardware_qcom_sensors" remote="cm"  />
+  <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="cm"  />
+  <project path="hardware/ril" name="android_hardware_ril" remote="cm"  />
   <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3"  remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx"  remote="aosp" revision="refs/tags/android-4.3.1_r1" />
@@ -434,7 +431,7 @@
   <!-- Vendor -->
   <project path="vendor/oct" name="vendor_oct" remote="oct" />
   <project path="vendor/qcom/opensource/v8" name="android_vendor_qcom_opensource_v8" remote="oct"  />
-  <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="oct"  />
+  <project path="vendor/samsung" name="android_vendor_samsung" remote="oct"  />
   <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" remote="oct" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="oct" />
   <project path="vendor/tmobile/providers/ThemeManager" name="android_vendor_tmobile_providers_ThemeManager" remote="oct" />
