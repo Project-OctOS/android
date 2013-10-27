@@ -270,20 +270,20 @@
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="oct"  />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="oct"  />
   <project path="hardware/msm7k" name="android_hardware_msm7k" remote="oct"  />
-  <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" groups="qcom" remote="cm"  />
-  <project path="hardware/qcom/audio-caf" name="android_hardware_qcom_audio-caf" groups="caf" remote="cm" />
-  <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" groups="qcom" remote="cm"  />
-  <project path="hardware/qcom/display" name="android_hardware_qcom_display" groups="qcom" remote="cm"  />
-  <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" groups="caf" remote="cm"  />
-  <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" groups="qcom" remote="cm"  />
-  <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" groups="qcom" remote="cm"  />
-  <project path="hardware/qcom/media" name="android_hardware_qcom_media" groups="qcom" remote="cm"  />
-  <project path="hardware/qcom/media-caf" name="android_hardware_qcom_media-caf" groups="caf" remote="cm" />
-  <project path="hardware/qcom/msm8960" name="android_hardware_qcom_msm8960" groups="qcom_msm8960" remote="cm"  />
-  <project path="hardware/qcom/power" name="android_hardware_qcom_power" remote="cm"  />
-  <project path="hardware/qcom/sensors" name="android_hardware_qcom_sensors" remote="cm"  />
-  <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="cm"  />
-  <project path="hardware/ril" name="android_hardware_ril" remote="cm"  />
+  <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" groups="qcom" remote="cm"  revision="cm-10.2" />
+  <project path="hardware/qcom/audio-caf" name="android_hardware_qcom_audio-caf" groups="caf" remote="cm" revision="cm-10.2" />
+  <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" groups="qcom" remote="cm"  revision="cm-10.2" revision="cm-10.2" />
+  <project path="hardware/qcom/display" name="android_hardware_qcom_display" groups="qcom" remote="cm"  revision="cm-10.2" />
+  <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" groups="caf" remote="cm"  revision="cm-10.2" />
+  <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" groups="qcom" remote="cm"  revision="cm-10.2" />
+  <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" groups="qcom" remote="cm"  revision="cm-10.2" />
+  <project path="hardware/qcom/media" name="android_hardware_qcom_media" groups="qcom" remote="cm"  revision="cm-10.2" />
+  <project path="hardware/qcom/media-caf" name="android_hardware_qcom_media-caf" groups="caf" remote="cm" revision="cm-10.2" />
+  <project path="hardware/qcom/msm8960" name="android_hardware_qcom_msm8960" groups="qcom_msm8960" remote="cm"  revision="cm-10.2" />
+  <project path="hardware/qcom/power" name="android_hardware_qcom_power" remote="cm"  revision="cm-10.2" />
+  <project path="hardware/qcom/sensors" name="android_hardware_qcom_sensors" remote="cm"  revision="cm-10.2" />
+  <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="cm" revision="cm-10.2" />
+  <project path="hardware/ril" name="android_hardware_ril" remote="cm"  revision="cm-10.2" />
   <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3"  remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx"  remote="aosp" revision="refs/tags/android-4.3.1_r1" />
