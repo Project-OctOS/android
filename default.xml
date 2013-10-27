@@ -272,7 +272,7 @@
   <project path="hardware/msm7k" name="android_hardware_msm7k" remote="oct"  />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" groups="qcom" remote="cm"  revision="cm-10.2" />
   <project path="hardware/qcom/audio-caf" name="android_hardware_qcom_audio-caf" groups="caf" remote="cm" revision="cm-10.2" />
-  <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" groups="qcom" remote="cm"  revision="cm-10.2" revision="cm-10.2" />
+  <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" groups="qcom" remote="cm"  revision="cm-10.2" />
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" groups="qcom" remote="cm"  revision="cm-10.2" />
   <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" groups="caf" remote="cm"  revision="cm-10.2" />
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" groups="qcom" remote="cm"  revision="cm-10.2" />
