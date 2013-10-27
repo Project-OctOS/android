@@ -31,7 +31,7 @@
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="bootable/recovery" name="platform/bootable/recovery" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
-  <project path="dalvik" name="android/dalvik" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
+  <project path="dalvik" name="platform/dalvik" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="development" name="platform/development" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   
